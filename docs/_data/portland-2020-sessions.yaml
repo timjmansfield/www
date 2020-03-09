@@ -6,7 +6,6 @@
   speakers:
   - name: Paul Logan
     slug: paul-logan
-    avatar: 
     twitter: '@scottishkilt'
     website: www.pauljflogan.com
   abstract: '<p>In q4 of 2019 Slack implemented an oft-requested documentation feature:
@@ -33,7 +32,6 @@
   speakers:
   - name: Kateryna Osadchenko
     slug: kateryna-osadchenko
-    avatar: 
     twitter: ''
     website: https://www.linkedin.com/in/kateryna-osadchenko-17771731/
   abstract: '<p>I want to discuss the pitfalls and best practices/workarounds of planning
@@ -57,7 +55,6 @@
   speakers:
   - name: Alexandra N White
     slug: alexandra-n-white
-    avatar: https://pretalx.com/media/avatars/headshot-2019-online.jpg
     twitter: heyawhite
     website: heyawhite.com
   abstract: '<p>Accessibility is a crucial part of product creation. Every team member,
@@ -94,7 +91,6 @@
   speakers:
   - name: Anni Bond
     slug: anni-bond
-    avatar: 
     twitter: sunshineparadox
     website: annisimpson.com
   abstract: "<p>Writing documentation for new or existing products is a forward-thinking
@@ -116,7 +112,6 @@
   speakers:
   - name: Jessica Garson
     slug: jessica-garson
-    avatar: https://pretalx.com/media/avatars/jessica_G8Ix67C.jpg
     twitter: Jessica Garson
     website: ''
   abstract: <p>With the launch of Twitter Developer Labs, we were releasing new API
@@ -132,7 +127,6 @@
   speakers:
   - name: Matthew Baldwin
     slug: matthew-baldwin
-    avatar: 
     twitter: defectiveyeti
     website: matthewscottbaldwin.com
   abstract: '<p>Imagine writing guidance for a product that exists solely in the mind
@@ -158,7 +152,6 @@
   speakers:
   - name: Luca Janssens
     slug: luca-janssens
-    avatar: 
     twitter: ''
     website: ''
   abstract: '<p>There are software companies that have undervalued documentation or
@@ -221,7 +214,6 @@
   speakers:
   - name: Ryan Paul
     slug: ryan-paul
-    avatar: https://pretalx.com/media/me.jpg
     twitter: segphault
     website: http://seg.phault.net/
   abstract: '<p>The modern web platform provides a rich canvas for presenting content,
@@ -272,7 +264,6 @@
   speakers:
   - name: Luc Perkins
     slug: luc-perkins
-    avatar: 
     twitter: lucperkins
     website: https://lucperkins.dev
   abstract: '<p>Solid documentation almost always involves skillfully wordsmithed
@@ -291,16 +282,19 @@
     tricky core concepts.</p>'
 - title: If We Build It, Will They Join? Sustaining a Community Documentation Initiative
     with Sprints
-  slug: if-we-build-it-will-they-join-sustaining-a-community-documentation-initiative-with-sprints-amanda-stevens-kaitlin-newson
+  slug: if-we-build-it-will-they-join-sustaining-a-community-documentation-initiative-with-sprints-amanda-stevens
   series: Write the Docs Portland
-  series_slug: if-we-build-it-will-they-join-sustaining-a-community-documentation-initiative-with-sprints-amanda-stevens-kaitlin-newson
+  series_slug: if-we-build-it-will-they-join-sustaining-a-community-documentation-initiative-with-sprints-amanda-stevens
   year: 2020
   speakers:
-  - name: Amanda Stevens, Kaitlin Newson
-    slug: amanda-stevens-kaitlin-newson
-    avatar: 
-    twitter: kaitlinnewson, alettertoamanda
-    website: 'https://kaitlinnewson.com/ '
+  - name: Amanda Stevens
+    slug: amanda-stevens
+    twitter: '@kaitlinnewson'
+    website: https://kaitlinnewson.com/
+  - name: Kaitlin Newson
+    slug: kaitlin-newson
+    twitter: '@kaitlinnewson'
+    website: https://kaitlinnewson.com
   abstract: '<p>End users often have great insight into how documentation can be improved,
     but rarely contribute to documentation. How can we engage them? How can we reduce
     barriers to participation? And once we have contributors, how do we ensure that
@@ -332,7 +326,6 @@
   speakers:
   - name: Lucy Carey
     slug: lucy-carey
-    avatar: https://pretalx.com/media/avatars/Screenshot_2020-02-19_at_09.56.26_pUIrHqc.png
     twitter: lucyrushi
     website: www.lucycarey.com
   abstract: '<p>Your docs are looking good, the demand is there, and you’re thinking
@@ -376,7 +369,6 @@
   speakers:
   - name: Brooke Wayne
     slug: brooke-wayne
-    avatar: https://pretalx.com/media/avatars/headshotcircle.png
     twitter: ''
     website: 'Medium: https://medium.com/@brooke.wayne and LinkedIn: https://www.linkedin.com/in/brookewayne/'
   abstract: '<p>As Documentarians, your users, whether they are internal (like your
@@ -425,7 +417,6 @@
   speakers:
   - name: Avi Flax
     slug: avi-flax
-    avatar: 
     twitter: '@flaximus'
     website: http://aviflax.com/
   abstract: '<p>Diagrams are an excellent tool for documenting the architecture of
@@ -469,7 +460,6 @@
   speakers:
   - name: Shavindri Dissanayake (Shavi)
     slug: shavindri-dissanayake-shavi
-    avatar: 
     twitter: '@Shavindri_Dissa'
     website: https://medium.com/@shavindridissanayake
   abstract: '<p>When developers implement an SDK, they usually include some information
@@ -544,7 +534,6 @@
   speakers:
   - name: Colin Dean
     slug: colin-dean
-    avatar: 
     twitter: colindean
     website: https://cad.cx
   abstract: '<p>I observed a white paper authoring collaboration workflow problem
@@ -576,7 +565,6 @@
   speakers:
   - name: Hamza Alam
     slug: hamza-alam
-    avatar: 
     twitter: '@oiHamza'
     website: ''
   abstract: '<p>"Developer experience is important to us". "Our documentation is top
@@ -640,7 +628,6 @@
   speakers:
   - name: Sally Stumbo
     slug: sally-stumbo
-    avatar: 
     twitter: ''
     website: ''
   abstract: '<p>Hi, I''m Sally Stumbo. I have successfully transitioned from a career
